@@ -15,8 +15,10 @@ In this  source code, you’ll learn:
 
 # Libraries used
 
-implementation ("androidx.compose.runtime:runtime-livedata:1.2.1")
-implementation ("com.google.android.gms:play-services-nearby:18.3.0")
+ 1. implementation ("androidx.compose.runtime:runtime-livedata:1.2.1")
+ 2. implementation ("com.google.android.gms:play-services-nearby:18.3.0")
 
 # Screenshots 
 
+![photo_2024-02-02_01-21-53](https://github.com/MohammadSadeghMehrafzoon/NearbyConnectionsApp/assets/78638521/554e6a42-efae-4045-8893-83cd3a2a826b)
+![photo_2024-02-02_01-20-22](https://github.com/MohammadSadeghMehrafzoon/NearbyConnectionsApp/assets/78638521/da491635-1711-44ec-a310-25741f05e77b)
